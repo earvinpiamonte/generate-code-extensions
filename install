@@ -1,17 +1,25 @@
 #!/bin/bash
 
-code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension alefragnani.project-manager
+code --install-extension codezombiech.gitignore
+code --install-extension CoenraadS.bracket-pair-colorizer-2
+code --install-extension donjayamanne.git-extension-pack
+code --install-extension donjayamanne.githistory
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension eamodio.gitlens
 code --install-extension ecmel.vscode-html-css
+code --install-extension Equinusocio.vsc-material-theme
 code --install-extension esbenp.prettier-vscode
+code --install-extension felixfbecker.php-debug
+code --install-extension felixfbecker.php-intellisense
+code --install-extension felixfbecker.php-pack
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension hnw.vscode-auto-open-markdown-preview
 code --install-extension humao.rest-client
 code --install-extension ms-vscode.sublime-keybindings
-code --install-extension oderwat.indent-rainbow
 code --install-extension pnp.polacode
 code --install-extension pranaygp.vscode-css-peek
 code --install-extension ritwickdey.LiveServer
 code --install-extension ullissescastro.theme-bracketsdark
 code --install-extension wwm.better-align
+code --install-extension ziyasal.vscode-open-in-github
