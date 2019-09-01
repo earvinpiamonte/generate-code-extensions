@@ -8,7 +8,7 @@ git clone https://github.com/earvinpiamonte/Code-User.git
 
 ## Installing for the first time?
 
-If you are installing the extensions for the first time, proceed to Installation process.
+If you are installing the extensions for the first time, proceed to [Installation](https://github.com/earvinpiamonte/generate-code-extensions#installation) process.
 
 ## Installed new extensions?
 
